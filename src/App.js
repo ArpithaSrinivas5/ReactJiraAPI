@@ -8,21 +8,6 @@ import MaterialTable from 'material-table'
 import Callback from "./components/Callback";
 
 
-/*const code = new URLSearchParams(window.location.search).get("code")
-
-function App() {
-
-    return code ? <Dashboard code={code} /> : <Login />
-
-    return (
-        <BrowserRouter>
-            <Routes>
-                <Route path={'/login/callback'} />
-                <Route path="/home" element={< Home />} />
-            </Routes>
-        </BrowserRouter>
-    );
-} */
 
 function App() {
 
